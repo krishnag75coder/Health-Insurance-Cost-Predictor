@@ -51,7 +51,7 @@ The application predicts estimated insurance costs based on demographic, lifesty
 ## 🖥️ Tech Stack
 
 - **Frontend:** Streamlit  
-- **Backend / ML:** Python, Pandas, Scikit-learn  
+- ** ML:** Python, Pandas, Scikit-learn  
 - **Model Persistence:** Joblib  
 - **Visualization:** Matplotlib  
 - **Deployment:** Streamlit Cloud  
